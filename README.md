@@ -1,4 +1,4 @@
-# 📚 Bahasa Melayu Leksikon — Data Engineering Assignment
+# 📚 Bahasa Melayu Leksikon — BMCS2013 Data Engineering Assignment
 
 A data engineering project focused on developing a **Bahasa Melayu Leksikon** using Python. The project aims to collect, process, and organize Malay vocabulary together with its meanings and related linguistic information.
 
@@ -51,17 +51,7 @@ Examined the relationships between synonyms in the lexicon by analyzing how word
 - Analyze connections between vocabulary items.
 - Examine the synonym network and its structure.
 - Understand how words are semantically related.
-
-### 3. 🔄 Continuous Improvement
-
-Worked on continuously improving the lexicon by updating existing vocabulary and enriching the information associated with each word.
-
-**Main focus:**
-- Identify words that need to be added or updated.
-- Update existing word information.
-- Improve the completeness and accuracy of vocabulary data.
-- Maintain and enhance the quality of the lexicon over time.
-
+  
 ---
 
 ## 📂 Project Scope
@@ -72,25 +62,3 @@ The project covers several important aspects of data engineering:
 2. **Data Extraction** – Using web crawling and scraping techniques.
 3. **Data Enrichment** – Integrating APIs to obtain word meanings and related information.
 4. **Data Analysis** – Examining vocabulary coverage and synonym relationships.
-5. **Data Maintenance** – Continuously updating and improving the lexicon.
-
----
-
-## 📖 Learning Outcomes
-
-Through this assignment, I gained practical experience in:
-
-- Applying Python to data engineering tasks.
-- Understanding web crawling and web scraping techniques.
-- Working with APIs to retrieve external data.
-- Processing and organizing unstructured textual information.
-- Analyzing word relationships through synonym networks.
-- Evaluating data coverage and completeness.
-- Understanding the importance of continuous data quality improvement.
-
----
-
-## ⭐ Acknowledgement
-
-This project was developed as part of our Data Engineering assignment. It provided an opportunity to apply data collection, data processing, API integration, and data analysis techniques to develop a Bahasa Melayu Leksikon.
-
